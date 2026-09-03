@@ -1,5 +1,5 @@
 ### dns.geohide.ru: hosts file
-# Последнее обновление: 04.09.2026 01:25:41
+# Последнее обновление: 04.09.2026 01:55:45
 # Регион: EU
 
 # ChatGPT (OpenAI)
@@ -610,17 +610,6 @@
 2.27.118.34 support.anthropic.com
 31.25.239.132 support.anthropic.com
 143.20.64.192 support.anthropic.com
-
-# GitHub Copilot
-193.233.112.68 api.github.com
-193.233.112.67 api.github.com
-46.8.158.6 api.github.com
-193.233.112.67 api.individual.githubcopilot.com
-193.233.112.68 api.individual.githubcopilot.com
-46.8.158.6 api.individual.githubcopilot.com
-46.8.158.6 proxy.individual.githubcopilot.com
-193.233.112.68 proxy.individual.githubcopilot.com
-193.233.112.67 proxy.individual.githubcopilot.com
 
 # Google AI
 217.60.245.219 antigravity.google
