@@ -1,5 +1,5 @@
 ### dns.geohide.ru: hosts file
-# Последнее обновление: 02.09.2026 23:45:14
+# Последнее обновление: 03.09.2026 03:45:14
 # Регион: EU
 
 # ChatGPT (OpenAI)
@@ -623,6 +623,61 @@
 193.233.112.67 proxy.individual.githubcopilot.com
 
 # Google AI
+217.60.245.219 antigravity.google
+217.60.245.233 antigravity.google
+143.20.64.192 antigravity.google
+31.25.239.132 antigravity.google
+2.27.118.34 antigravity.google
+217.60.245.233 www.antigravity.google
+217.60.245.219 www.antigravity.google
+31.25.239.132 www.antigravity.google
+143.20.64.192 www.antigravity.google
+2.27.118.34 www.antigravity.google
+217.60.245.233 datastudio.google.com
+217.60.245.219 datastudio.google.com
+31.25.239.132 datastudio.google.com
+143.20.64.192 datastudio.google.com
+2.27.118.34 datastudio.google.com
+217.60.245.219 flow.google
+217.60.245.233 flow.google
+2.27.118.34 flow.google
+143.20.64.192 flow.google
+31.25.239.132 flow.google
+217.60.245.233 www.flow.google
+217.60.245.219 www.flow.google
+31.25.239.132 www.flow.google
+143.20.64.192 www.flow.google
+2.27.118.34 www.flow.google
+217.60.245.233 flowmusic.app
+217.60.245.219 flowmusic.app
+2.27.118.34 flowmusic.app
+31.25.239.132 flowmusic.app
+143.20.64.192 flowmusic.app
+217.60.245.219 www.flowmusic.app
+217.60.245.233 www.flowmusic.app
+143.20.64.192 www.flowmusic.app
+31.25.239.132 www.flowmusic.app
+2.27.118.34 www.flowmusic.app
+217.60.245.233 notebook-pa.googleapis.com
+217.60.245.219 notebook-pa.googleapis.com
+2.27.118.34 notebook-pa.googleapis.com
+31.25.239.132 notebook-pa.googleapis.com
+143.20.64.192 notebook-pa.googleapis.com
+217.60.245.233 notebook.google
+217.60.245.219 notebook.google
+31.25.239.132 notebook.google
+143.20.64.192 notebook.google
+2.27.118.34 notebook.google
+217.60.245.219 www.notebook.google
+217.60.245.233 www.notebook.google
+143.20.64.192 www.notebook.google
+31.25.239.132 www.notebook.google
+2.27.118.34 www.notebook.google
+217.60.245.219 notebook.google.com
+217.60.245.233 notebook.google.com
+2.27.118.34 notebook.google.com
+143.20.64.192 notebook.google.com
+31.25.239.132 notebook.google.com
 217.60.245.233 ai.google.dev
 217.60.245.219 ai.google.dev
 2.27.118.34 ai.google.dev
@@ -1099,8 +1154,5 @@
 2.27.118.34 xsts.auth.xboxlive.com
 31.25.239.132 xsts.auth.xboxlive.com
 143.20.64.192 xsts.auth.xboxlive.com
-
-# Регион серверов: EU
-
 
 ### dns.geohide.ru: end hosts file
