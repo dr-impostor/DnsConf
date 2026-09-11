@@ -611,6 +611,18 @@
 31.25.239.132 support.anthropic.com
 143.20.64.192 support.anthropic.com
 
+# Formula1
+217.60.245.233 formula1.com
+217.60.245.219 formula1.com
+143.20.64.192 formula1.com
+2.27.118.34 formula1.com
+31.25.239.132 formula1.com
+217.60.245.219 www.formula1.com
+217.60.245.233 www.formula1.com
+143.20.64.192 www.formula1.com
+31.25.239.132 www.formula1.com
+2.27.118.34 www.formula1.com
+
 # GitHub Copilot
 #193.233.112.68 api.github.com
 #193.233.112.67 api.github.com
