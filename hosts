@@ -238,17 +238,6 @@
 107.175.76.134 www.formula1.com
 192.3.233.253 www.formula1.com
 
-# GitHub Copilot
-#193.233.112.68 api.github.com
-#193.233.112.67 api.github.com
-#46.8.158.6 api.github.com
-#193.233.112.67 api.individual.githubcopilot.com
-193.233.112.68 api.individual.githubcopilot.com
-46.8.158.6 api.individual.githubcopilot.com
-46.8.158.6 proxy.individual.githubcopilot.com
-193.233.112.68 proxy.individual.githubcopilot.com
-#193.233.112.67 proxy.individual.githubcopilot.com
-
 # Google AI
 192.255.159.240 antigravity.google
 192.255.159.241 antigravity.google
@@ -497,15 +486,16 @@
 107.175.76.134 www.x.ai
 192.3.233.253 www.x.ai
 
-# Meta AI
-192.255.159.240 meta.ai
-192.255.159.241 meta.ai
-107.175.76.134 meta.ai
-192.3.233.253 meta.ai
-192.255.159.241 www.meta.ai
-192.255.159.240 www.meta.ai
-192.3.233.253 www.meta.ai
-107.175.76.134 www.meta.ai
+# GitHub Copilot
+#193.233.112.68 api.github.com
+#193.233.112.67 api.github.com
+#46.8.158.6 api.github.com
+#193.233.112.67 api.individual.githubcopilot.com
+193.233.112.68 api.individual.githubcopilot.com
+46.8.158.6 api.individual.githubcopilot.com
+46.8.158.6 proxy.individual.githubcopilot.com
+193.233.112.68 proxy.individual.githubcopilot.com
+#193.233.112.67 proxy.individual.githubcopilot.com
 
 # Microsoft (Copilot, Designer, Xbox)
 192.255.159.241 auth.xboxlive.com
@@ -560,5 +550,19 @@
 192.255.159.240 xsts.auth.xboxlive.com
 192.3.233.253 xsts.auth.xboxlive.com
 107.175.76.134 xsts.auth.xboxlive.com
+
+# Weather.com
+192.255.159.240 upsx.weather.com
+192.255.159.241 upsx.weather.com
+107.175.76.134 upsx.weather.com
+192.3.233.253 upsx.weather.com
+192.255.159.240 weather.com
+192.255.159.241 weather.com
+107.175.76.134 weather.com
+192.3.233.253 weather.com
+192.255.159.241 www.weather.com
+192.255.159.240 www.weather.com
+192.3.233.253 www.weather.com
+107.175.76.134 www.weather.com
 
 ### dns.geohide.ru: end hosts file
