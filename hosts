@@ -1,5 +1,5 @@
 ### dns.geohide.ru: hosts file
-# Последнее обновление: 28.09.2026 06:17:34
+# Последнее обновление: 29.09.2026 05:18:22
 # Регион: US
 
 # Brave
@@ -351,6 +351,10 @@
 192.255.159.241 gemini.google.com
 107.175.76.134 gemini.google.com
 192.3.233.253 gemini.google.com
+192.255.159.240 geminiweb-pa.clients6.google.com
+192.255.159.241 geminiweb-pa.clients6.google.com
+107.175.76.134 geminiweb-pa.clients6.google.com
+192.3.233.253 geminiweb-pa.clients6.google.com
 192.255.159.240 generativeai.google
 192.255.159.241 generativeai.google
 107.175.76.134 generativeai.google
