@@ -1,5 +1,5 @@
 ### dns.geohide.ru: hosts file
-# Последнее обновление: 06.10.2026 05:54:10
+# Последнее обновление: 13.10.2026 06:25:43
 # Регион: US
 
 # Brave
@@ -41,6 +41,10 @@
 192.255.159.241 auth0.openai.com
 107.175.76.134 auth0.openai.com
 192.3.233.253 auth0.openai.com
+192.255.159.241 bps.openai.com
+192.255.159.240 bps.openai.com
+192.3.233.253 bps.openai.com
+107.175.76.134 bps.openai.com
 192.255.159.241 platform.openai.com
 192.255.159.240 platform.openai.com
 192.3.233.253 platform.openai.com
@@ -267,6 +271,14 @@
 192.255.159.240 www.flow.google
 192.3.233.253 www.flow.google
 107.175.76.134 www.flow.google
+192.255.159.241 flow.google.com
+192.255.159.240 flow.google.com
+192.3.233.253 flow.google.com
+107.175.76.134 flow.google.com
+192.255.159.240 www.flow.google.com
+192.255.159.241 www.flow.google.com
+107.175.76.134 www.flow.google.com
+192.3.233.253 www.flow.google.com
 192.255.159.241 flowmusic.app
 192.255.159.240 flowmusic.app
 192.3.233.253 flowmusic.app
@@ -435,6 +447,10 @@
 192.255.159.241 people-pa.clients6.google.com
 107.175.76.134 people-pa.clients6.google.com
 192.3.233.253 people-pa.clients6.google.com
+192.255.159.241 playground.google
+192.255.159.240 playground.google
+192.3.233.253 playground.google
+107.175.76.134 playground.google
 192.255.159.241 proactivebackend-pa.googleapis.com
 192.255.159.240 proactivebackend-pa.googleapis.com
 192.3.233.253 proactivebackend-pa.googleapis.com
