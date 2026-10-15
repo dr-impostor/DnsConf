@@ -1,5 +1,5 @@
 ### dns.geohide.ru: hosts file
-# Последнее обновление: 13.10.2026 06:25:43
+# Последнее обновление: 14.10.2026 03:45:17
 # Регион: US
 
 # Brave
@@ -407,6 +407,10 @@
 192.255.159.240 labs.google.com
 192.3.233.253 labs.google.com
 107.175.76.134 labs.google.com
+192.255.159.241 labstailwind.pa.googleapis.com
+192.255.159.240 labstailwind.pa.googleapis.com
+192.3.233.253 labstailwind.pa.googleapis.com
+107.175.76.134 labstailwind.pa.googleapis.com
 192.255.159.241 lookerstudio.google.com
 192.255.159.240 lookerstudio.google.com
 192.3.233.253 lookerstudio.google.com
