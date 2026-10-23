@@ -3,17 +3,23 @@
 192.255.159.240 claude.com
 192.255.159.240 claudemcpclient.com
 192.255.159.240 claudeusercontent.com
+
 192.255.159.240 openai.com
 192.255.159.240 chatgpt.com
 192.255.159.240 chatgpt.site
 192.255.159.240 oaistatic.com
 192.255.159.240 oaiusercontent.com
+
 192.255.159.240 brave.com
+
 192.255.159.240 formula1.com
+
 192.255.159.240 weather.com
+
 192.255.159.240 grok.com
 192.255.159.240 grok.x.com
 192.255.159.240 x.ai
+
 192.255.159.240 copilot.microsoft.com
 192.255.159.240 individual.githubcopilot.com
 192.255.159.240 designer.microsoft.com
@@ -21,10 +27,12 @@
 192.255.159.240 edgeservices.bing.com
 192.255.159.240 rewards.bing.com
 192.255.159.240 sydney.bing.com
+
 192.255.159.240 auth.xboxlive.com
 192.255.159.240 gssv-play-prod.xboxlive.com
 192.255.159.240 titlestorage.xboxlive.com
 192.255.159.240 xboxdesignlab.xbox.com
+
 192.255.159.240 gemini.google
 192.255.159.240 gemini.google.com
 192.255.159.240 generativelanguage.googleapis.com
