@@ -41,3 +41,10 @@
 192.255.159.240 notebooklm.google
 192.255.159.240 notebooklm.google.com
 192.255.159.240 suggestqueries.google.com
+
+192.255.159.240 assistant-s3-pa.googleapis.com
+192.255.159.240 geller-pa.googleapis.com
+192.255.159.240 proactivebackend-pa.googleapis.com
+192.255.159.240 robinfrontend-pa.googleapis.com
+192.255.159.240 labstailwind.pa.googleapis.com
+192.255.159.240 notebooklm-pa.googleapis.com
